@@ -1,8 +1,6 @@
 # Book-Search-Engine
 Module Challenge 21 contents
 
-# Personal-Portfolio
-
 ## User Story
 * AS AN avid reader
 * I WANT to search for new books to read
